@@ -8,4 +8,8 @@ public class Calculator() {
     public double addition(double a, double b){
         return a + b;
     }
+
+    public float addition(float a, float b){
+        return b + a;
+    }
 }
